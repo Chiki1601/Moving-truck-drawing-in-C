@@ -1,1 +1,1 @@
-# Moving-car-drawing-in-C
+# Moving-truck-drawing-in-C
